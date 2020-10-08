@@ -23,7 +23,8 @@ PRODUCT_PACKAGES += \
     IconShapeRoundedHexagonOverlay \
     IconShapePebbleOverlay \
     IconShapeTaperedRectOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    IconShapeHeartOverlay \
 
 
 # Qs tile style overlays
