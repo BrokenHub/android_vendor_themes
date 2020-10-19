@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeVesselOverlay \
     IconShapeHeartOverlay \
+    IconShapeLeafOverlay 
 
 
 # Qs tile style overlays
